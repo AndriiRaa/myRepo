@@ -22,4 +22,4 @@ steps:
     CheckmarxService: 'CxAST Connection'
     projectName: '$(Build.Repository.Name)'
     branchName: '$(Build.SourceBranchName)'
-    tenantName: 'rc_tenant'
+    tenantName: 'master_ui_env_validation'
